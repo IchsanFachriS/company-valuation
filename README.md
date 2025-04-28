@@ -18,7 +18,7 @@ This repository contains a Python script for performing comprehensive company va
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/company-valuation.git
+git clone https://github.com/ichsanfachris/company-valuation.git
 cd company-valuation
 
 # Create a virtual environment (optional but recommended)
